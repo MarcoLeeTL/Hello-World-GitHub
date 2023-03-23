@@ -1,3 +1,3 @@
 # Hello-World-GitHub
-Darkest night, I'll confront you here....
-Hello I am Marco Lee.
+Hello I am Marco Lee!
+My student number is 1155194507.
